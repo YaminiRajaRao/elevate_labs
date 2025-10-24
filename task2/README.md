@@ -1,8 +1,6 @@
 # SALES_PROJECT - Super Market Sales Analysis Report
 
-**Author:** YAMINIJ  
-**Tool Used:** Power BI Desktop  
-**Total Pages:** 9
+**Author:** YAMINI J  
 
 ---
 
